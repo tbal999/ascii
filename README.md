@@ -1,11 +1,9 @@
 # ascii
 little irc ascii generator tool
 
-download it
-
-build it
-
-run it
+- download it
+- build it
+- run it!
 
 have fun :) 
 
